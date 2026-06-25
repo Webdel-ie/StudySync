@@ -41,10 +41,10 @@ https://webdel-ie.github.io/StudySync/
 
 StudySync/
 
-├── index.html
-├── style.css
-├── images/
-└── README.md
+- index.html
+- style.css
+- images/
+- README.md
 
 
 ## Author
